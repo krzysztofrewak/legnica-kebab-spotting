@@ -1,0 +1,313 @@
+[
+  {
+    "name": "Cyrus Kebab",
+    "location": {
+      "coordinates": [51.20788328467099, 16.161068016930532],
+      "address": "Rynek 20"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Kurczak Pieczony",
+    "location": {
+      "coordinates": [51.20960667521959, 16.187620415522723],
+      "address": "Kosmiczna 2"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Dino Kebab",
+    "location": {
+      "coordinates": [51.200633684016836, 16.159551796173226],
+      "address": "Jaworzyńska 41"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Zahir Kebab Jaworzyńska",
+    "location": {
+      "coordinates": [51.20424397674176, 16.160210448143005],
+      "address": "Jaworzyńska 8"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Leo Kebab",
+    "location": {
+      "coordinates": [51.20440383503453, 16.159921511864013],
+      "address": "Jaworzyńska 4"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Piri Piri",
+    "location": {
+      "coordinates": [51.2040685085953, 16.16069280262619],
+      "address": "Szkolna 1"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "planned"
+  },
+  {
+    "name": "Stambuł Kebab",
+    "location": {
+      "coordinates": [51.207171497698724, 16.15698843481341],
+      "address": "Chojnowska 21A"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Kavovarka - kebab kraft",
+    "location": {
+      "coordinates": [51.20552860580215, 16.186559038356293],
+      "address": "Górnicza 10B"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "King House Kebab",
+    "location": {
+      "coordinates": [51.20462333765386, 16.188554530901975],
+      "address": "Piłsudskiego 38"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Kebab & Gyros",
+    "location": {
+      "coordinates": [51.18544929618131, 16.17237413997929],
+      "address": "Schumanna 17"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Bejrut Restauracja libańska",
+    "location": {
+      "coordinates": [51.205138423988146, 16.185351536443285],
+      "address": "Piłsudskiego 18"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Lara Döner Kebab Legnica",
+    "location": {
+      "coordinates": [51.20959448358735, 16.167796240447224],
+      "address": "Wrocławska 13"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Zahir Kebab Kolejowa",
+    "location": {
+      "coordinates": [51.21231665915741, 16.1686792330936],
+      "address": "Kolejowa 3"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Bafra Kebab Złotoryjska",
+    "location": {
+      "coordinates": [51.19281402860933, 16.128722115045626],
+      "address": "Złotoryjska 170"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Bafra Kebab Gwiezdna",
+    "location": {
+      "coordinates": [51.208439469019005, 16.181745589916925],
+      "address": "Gwiezdna 4"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Had Foot",
+    "location": {
+      "coordinates": [51.20677303064106, 16.17869613057113],
+      "address": "Fabryczna 13"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "AM AM Kebab",
+    "location": {
+      "coordinates": [51.20952045769188, 16.187051359374788],
+      "address": "Wrocławska 155"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Hallo Kebap",
+    "location": {
+      "coordinates": [51.21170885367406, 16.175237588475987],
+      "address": "Czarnieckiego 19c"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "MAXI Kebab",
+    "location": {
+      "coordinates": [51.20140320728768, 16.214000840314657],
+      "address": "Piłsudskiego 84"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Kebab Truck",
+    "location": {
+      "coordinates": [51.20792723252704, 16.21341613253819],
+      "address": "Iwaszkiewicza 1"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "MIX Kebab",
+    "location": {
+      "coordinates": [51.20922454986468, 16.169298227052437],
+      "address": "Wrocławska 23A"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "working"
+  },
+  {
+    "name": "Rulo Kebab",
+    "location": {
+      "coordinates": [51.205128470632545, 16.1545378995454],
+      "address": "Nowy Świat"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Queen Kebab Asynka",
+    "location": {
+      "coordinates": [51.20133491074013, 16.141212683191867],
+      "address": "Asynka 18d"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Queen Kebab Piłsudskiego",
+    "location": {
+      "coordinates": [51.20140320728768, 16.214000840314657],
+      "address": "Piłsudskiego 84"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Euro Döner Kebab",
+    "location": {
+      "coordinates": [51.20777731965639, 16.160579601110694],
+      "address": "Rynek 32"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Kebab Empire",
+    "location": {
+      "coordinates": [51.20677303064106, 16.17869613057113],
+      "address": "Fabryczna 13"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Kebab Mark",
+    "location": {
+      "coordinates": [51.20677303064106, 16.17869613057113],
+      "address": "Fabryczna 13"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Chili Blue",
+    "location": {
+      "coordinates": [51.19930113838938, 16.219397530166724],
+      "address": "Batalionu „Zośka” 36a"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Botan Kebab",
+    "location": {
+      "coordinates": [51.207171497698724, 16.15698843481341],
+      "address": "Chojnowska 21A"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "Kebab House",
+    "location": {
+      "coordinates": [51.20523547984742, 16.150942551540048],
+      "address": "Hutników 23"
+    },
+    "tags": [],
+    "lifespan": "",
+    "status": "closed"
+  },
+  {
+    "name": "KEBAB Sphinx",
+    "location": {
+      "coordinates": [51.209281018102246, 16.16491389168841],
+      "address": "Najświętszej Marii Panny"
+    },
+    "url": "https://www.facebook.com/profile.php?id=100064028922914",
+    "tags": [],
+    "lifespan": "2020",
+    "status": "closed"
+  }
+]
